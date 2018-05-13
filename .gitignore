@@ -1,0 +1,15 @@
+node_modules/
+.idea/
+.remote-sync.json
+.sftp-config.json
+npm-debug.log
+package-lock.json
+**/.git
+**/.svn
+**/.hg
+**/CVS
+**/.DS_Store
+.settings
+.project
+.HBuilder
+
